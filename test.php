@@ -1,5 +1,24 @@
-        <?php 
-        echo '<p>Привет, мир да!</p>'; 
-        echo '<p>Привет, мир да!</p>';
-        echo '<p>Привет, мир да!</p>';  
-        ?>
+        g
+        sdfg
+        <s>g
+                sdfg
+                fh
+                <fieldset>hfd
+                        <h1><h1><dfn><dfn>j
+                                <dfn>g
+
+
+                                <fieldset>ndg
+                                        n\dfg
+                                        hj
+                                        dfgj
+                                        dfgng
+                                        <nav><hgj>
+                                        <fieldset>
+                                                <fgj></fgj>
+                                        </fieldset></nav>
+                                </fieldset>
+                                </dfn>
+                        </dfn></dfn></h1></h1>
+                </fieldset>
+        </s>
